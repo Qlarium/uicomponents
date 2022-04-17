@@ -1,0 +1,24 @@
+.tooltip {
+    background-color: #182D5A !important;
+    line-height: 15px !important;
+    padding: 12px;
+    max-width: 200px;
+    white-space: pre-wrap;
+    text-align: left;
+}
+
+.tooltip.place-bottom::after {
+    border-bottom-color: #182D5A !important;
+}
+
+.tooltip.place-right::after {
+    border-right-color: #182D5A !important;
+}
+
+.tooltip.place-left::after {
+    border-left-color: #182D5A !important;
+}
+
+.tooltip.place-top::after {
+    border-top-color: #182D5A !important;
+}

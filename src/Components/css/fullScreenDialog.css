@@ -1,0 +1,39 @@
+.fullScreenDialog {
+  margin-top: 48px !important;
+  margin-bottom: 48px !important;
+  max-width: none !important;
+    width: 60%;
+    margin-left: 20%;
+}
+@media (max-width: 1650px) and (min-width: 1250px) {
+  .fullScreenDialog {
+      width: 80%;
+      margin-left: 10%;
+  }
+}
+@media (max-width: 1250px) and (min-width: 1050px) {
+  .fullScreenDialog {
+      margin-left: 1%;
+      width: 98%;
+  }
+}
+@media (max-width: 1050px) and (min-width: 800px) {
+    .fullScreenDialog {
+        width: 60%;
+        margin-left: 20%;
+    }
+}
+@media (max-width: 800px) and (min-width: 600px) {
+  .fullScreenDialog {
+      width: 80%;
+      margin-left: 10%;
+  }
+}
+@media (max-width: 600px) {
+  .fullScreenDialog {
+    margin: 16px !important;
+      width: 98%;
+  }
+}
+
+

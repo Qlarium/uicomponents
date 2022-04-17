@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="327.8372093216673" height="68.60465168501642" fill="none" style="">
+	<rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
+	<g class="currentLayer" style="">
+		<title>Layer 1</title>
+		<rect width="328.58472804009824" height="75.90697931811223" fill="black" fill-opacity="0" y="-4.976748466491699" x="0" id="svg_1" class=""/>
+		<rect width="60.0005989074707" height="58" fill="black" fill-opacity="0" y="2" x="130" id="svg_2"/>
+		<rect width="60.0005989074707" height="58" fill="black" fill-opacity="0" y="2" x="130" id="svg_3"/>
+		<path d="M185.715 2H142.858C140.429 2 138.572 3.885 138.572 6.35V52.75" stroke="#E5E9ED" stroke-width="3" stroke-miterlimit="10" id="svg_4"/>
+		<path d="M175.715 60C178.858 60 181.429 57.39 181.429 54.2V6.35C181.429 3.885 183.286 2 185.715 2C188.143 2 190.001 3.885 190.001 6.35V10.7H184.286" stroke="#E5E9ED" stroke-width="3" stroke-miterlimit="10" id="svg_5"/>
+		<path d="M170 54.2V52.75H130V54.2C130 57.39 132.571 60 135.714 60H175.714C172.571 60 170 57.39 170 54.2Z" stroke="#E5E9ED" stroke-width="3" stroke-miterlimit="10" id="svg_6"/>
+		<path d="M171.429 16.79H162.857" stroke="#E5E9ED" stroke-width="3" stroke-miterlimit="10" stroke-linejoin="round" id="svg_7"/>
+		<path d="M171.429 23.895H162.857" stroke="#E5E9ED" stroke-width="3" stroke-miterlimit="10" stroke-linejoin="round" id="svg_8"/>
+		<path d="M171.429 32.45H145.715" stroke="#E5E9ED" stroke-width="3" stroke-miterlimit="10" stroke-linejoin="round" id="svg_9"/>
+		<path d="M171.429 39.7H145.715" stroke="#E5E9ED" stroke-width="3" stroke-miterlimit="10" stroke-linejoin="round" id="svg_10"/>
+		<path d="M147.143 15.05L157.571 25.635" stroke="#E5E9ED" stroke-width="3" stroke-miterlimit="10" stroke-linejoin="round" id="svg_11"/>
+		<path d="M157.571 15.05L147.143 25.635" stroke="#E5E9ED" stroke-width="3" stroke-miterlimit="10" stroke-linejoin="round" id="svg_12"/>
+	</g>
+</svg>
